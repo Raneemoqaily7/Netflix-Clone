@@ -47,7 +47,7 @@ function Home(){
   
 </Container>
 {
-    !results.length&&<div><h2>No such result please try again</h2> </div>
+    !results.length&&<div><h2>No such result please try again or wait</h2> </div>
 }
 </>
     )
